@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I am learning how to do a commit!
+I am making changes in my life!
 Use the left arrow to go back
